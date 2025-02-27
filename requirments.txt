@@ -1,3 +1,3 @@
-pandas
-python-docx
-openpyxl
+pandas = 2.2.3
+python-docx = 1.1.2
+openpyxl = 3.1.5
